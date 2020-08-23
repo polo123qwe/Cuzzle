@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/8BitMenu_David_renda.ogg-45f4977e32f7bdf8bf85c1c6601c086c.oggstr"
+
+[deps]
+
+source_file="res://Assets/8BitMenu_David_renda.ogg"
+dest_files=[ "res://.import/8BitMenu_David_renda.ogg-45f4977e32f7bdf8bf85c1c6601c086c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
